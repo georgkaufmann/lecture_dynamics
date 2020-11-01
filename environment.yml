@@ -1,0 +1,11 @@
+name: Lecture environment file
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - pandas
+  - seaborn
+  - scikit-learn
+  - ipywidgets
+  - jupyter_contrib_nbextensions
